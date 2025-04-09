@@ -1,4 +1,4 @@
-**ECGClip-Fair-Eval** is a research framework for studying fairness-aware multimodal pretraining using electrocardiogram (ECG) waveforms and rhythm descriptions. The project extends CLIP-style contrastive learning to align ECG signals with text and investigates how incorporating protected demographic attributes (age and gender) during pretraining impacts downstream classification performance and fairness.
+**ECGClip-Fair-Eval** is a research framework for studying the fairness of multimodal pretraining using electrocardiogram (ECG) waveforms and rhythm descriptions. The project extends CLIP-style contrastive learning to align ECG signals with text and investigates how incorporating protected demographic attributes (age and gender) during pretraining impacts downstream classification performance and fairness.
 
 ---
 
