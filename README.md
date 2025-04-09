@@ -17,14 +17,13 @@ This repository implements a pipeline that:
 ## 📂 Repository Structure
 
 ```
-├── model/                            # CLIP-style ECG encoder and projection heads
 ├── dataloader_multimodal.py           # Original ECG+text dataloader
 ├── dataloader_multimodal_augmented.py # Augmented ECG+demographics+text dataloader
 ├── clip_train.py                      # Pretraining script
 ├── clip_prob.py                       # Evaluation script for downstream probing
 ├── visualizations/                    # Optional: notebooks/plots for performance analysis
 ├── utils.py                           # Helper utilities for saving, logging, plotting
-├── clip_outputs                       # Folder to save the outputs
+├── clip_outputs/                       # Folder to save the outputs
 ```
 
 ---
