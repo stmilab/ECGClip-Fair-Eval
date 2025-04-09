@@ -23,7 +23,7 @@ This repository implements a pipeline that:
 ├── clip_prob.py                       # Evaluation script for downstream probing
 ├── visualizations/                    # Optional: notebooks/plots for performance analysis
 ├── utils.py                           # Helper utilities for saving, logging, plotting
-├── clip_outputs/                       # Folder to save the outputs
+├── clip_outputs/                      # Folder to save the outputs
 ```
 
 ---
